@@ -1,11 +1,8 @@
 # FourierFormer-Declutter
 Official Implementation of "FourierFormer: Enhancing Clutter-Free Room Modeling with Fourier Transform"
 
-<!-- video: sequnce of cluttered/clutter-free pairs -->
-<div align="center">
-    <video autoplay loop muted playsinline>
-        <source src="assets/example.mp4" type="video/mp4">
-    </video>
-</div>
+https://github.com/user-attachments/assets/0512fee4-cb86-46b4-b296-9d36e244e0fe
 
 Code comming soon!
+
+
